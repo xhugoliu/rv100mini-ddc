@@ -1,0 +1,22 @@
+{
+  "pins" : [
+    {
+      "identity" : "applesiliconddc",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/waydabber/AppleSiliconDDC.git",
+      "state" : {
+        "revision" : "97af3818b9803e51412fb50cac1506db1d73b5bf"
+      }
+    },
+    {
+      "identity" : "swift-argument-parser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-argument-parser.git",
+      "state" : {
+        "revision" : "6a52f3251125d74daf04fcbd5e6f08a75d074382",
+        "version" : "1.8.2"
+      }
+    }
+  ],
+  "version" : 2
+}

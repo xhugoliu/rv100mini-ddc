@@ -1,0 +1,20 @@
+{
+  "displayName": "RV100mini",
+  "hotkeys": [
+    {
+      "key": "1",
+      "modifiers": ["control", "option"],
+      "source": "5"
+    },
+    {
+      "key": "2",
+      "modifiers": ["control", "option"],
+      "source": "6"
+    },
+    {
+      "key": "3",
+      "modifiers": ["control", "option"],
+      "source": "7"
+    }
+  ]
+}
